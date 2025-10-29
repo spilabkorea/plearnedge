@@ -33,8 +33,8 @@
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/SPILab/P-LearnEdge.git
-cd P-LearnEdge
+git@github.com:spilabkorea/plearnedge.git
+cd plearnedge
 
 # Create virtual environment
 python -m venv venv
@@ -114,11 +114,11 @@ python baselines/fewshot_hybrid.py
 
 If you use P-LearnEdge in your research, please cite:
 ```bibtex
-@article{plearnedge2024,
-  title={P-LearnEdge: Lightweight Prompt-Driven Cross-Modal Learning for Real-Time Wildfire Detection on Edge Devices},
-  author={Your Name et al.},
+@article{plearnedge2025,
+  title={A Label-Free Lightweight Prompt-Driven Cross-Modal Fire Detection on Robotic Edge Platforms},
+  author={HyeYoung et al.},
   journal={ICRCV},
-  year={2024}
+  year={2025}
 }
 ```
 
