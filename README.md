@@ -117,14 +117,14 @@ If you use P-LearnEdge in your research, please cite:
 @article{plearnedge2025,
   title={A Label-Free Lightweight Prompt-Driven Cross-Modal Fire Detection on Robotic Edge Platforms},
   author={HyeYoung et al.},
-  journal={ICRCV},
+  conference={ICRCV},
   year={2025}
 }
 ```
 
 ## 📝 License
 
-This project is licensed under the MIT License - see [LICENSE] file.
+This project is licensed under the MIT License - see LICENSE file.
 
 ## 📧 Contact
 
