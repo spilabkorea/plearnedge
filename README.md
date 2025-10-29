@@ -131,13 +131,12 @@ This project is licensed under the MIT License - see LICENSE file.
 - **Author**: SPILab Research Team
 - **Email**: support@spilab.kr
 - **Website**: https://spilab.kr/
-
+  
 ## 🙏 Acknowledgments
 
 - Kaggle Fire and Smoke Dataset contributors
 - OpenAI CLIP team for inspiration
 - SPILab Corporation for support
-
 ---
 
 **Note**: This is research code. For production deployment, please contact us for optimized versions.
